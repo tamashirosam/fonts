@@ -1,0 +1,6 @@
+<description>
+Tamashiro is a sans-serif typeface with rounded corners and a weight between regular and bold.  
+It was created to be used in books authored by H. M. Tamashiro, following recommendations from the Brazilian Ministry of Education (MEC) for inclusive publishing.  
+Designed to support smooth reading flow and reduce visual fatigue.  
+Readers are invited to explore the work of #H.M.Tamashiro.
+</description>

@@ -1,0 +1,21 @@
+FONTLOG for the Tamashiro font
+------------------------------
+
+This file provides detailed information about the Tamashiro typeface.
+
+Font name: Tamashiro
+Designer: H. M. Tamashiro
+License: SIL Open Font License 1.1 and CC BY 4.0
+Date: 2025-07-09
+Version: 1.0
+
+Description:
+Tamashiro is a sans-serif typeface with rounded corners and a weight between regular and bold.  
+It was created for use in books authored by H. M. Tamashiro, following recommendations from the Brazilian Ministry of Education (MEC) for inclusive publishing.  
+It is designed to support smooth reading flow and reduce visual fatigue.
+
+ChangeLog:
+- Initial release (v1.0) — 2025-07-09
+
+Acknowledgments:
+None.
